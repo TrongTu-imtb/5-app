@@ -6,7 +6,7 @@ from io import BytesIO
 
 st.set_page_config(page_title="YouTube Comment Analyzer")
 
-API_KEY = "YOUR_YOUTUBE_API_KEY"
+API_KEY = "AIzaSyBce8zkHaX5SC42SM2tBKu_RZzrMY46UUo"
 
 st.title("🔍 YouTube Comment Analyzer")
 
